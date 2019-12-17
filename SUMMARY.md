@@ -1,4 +1,6 @@
-# Summary
+# Table of contents
 
-* [學歷](EDUCATION.md)
-* [工作經驗](EXPERIENCE.md)
+* [自我介紹](README.md)
+* [學歷](education.md)
+* [工作經驗](experience.md)
+
